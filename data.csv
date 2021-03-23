@@ -1,0 +1,16 @@
+id,outlook,temperature,humidity,wind,play
+1,sunny,85,85,false,no
+2,sunny,80,90,true,no
+3,overcast,83,86,false,yes
+4,rainy,70,96,false,yes
+5,rainy,68,80,false,yes
+6,rainy,65,70,true,no
+7,overcast,64,65,true,yes
+8,sunny,72,95,false,no
+9,sunny,69,70,false,yes
+10,rainy,75,80,false,yes
+11,sunny,75,70,true,yes
+12,overcast,72,90,true,yes
+13,overcast,81,75,false,yes
+14,rainy,71,91,true,no
+15,overcast,60,62,false,yes
