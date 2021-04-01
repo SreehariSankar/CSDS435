@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import copy
 
-df = pd.read_csv('weather.csv')
+df = pd.read_csv('data.csv')
 X = df.iloc[:-1, 1:]
 y = df.iloc[:-1, -1]
 
