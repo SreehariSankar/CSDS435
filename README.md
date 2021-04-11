@@ -2,6 +2,8 @@
 CSDS435 Data Mining
 Homework coding assingments for CSDS 435.
 
+HW6 update: Please refer to PDF on canvas for detailed instructions on running the code.
+
 HW5 update: Please download "data.zip" and ANN.py. Extract data.zip into the folder and simply run ANN.py
 
 ANN.py contains a basic neural network class to show the backpropogration algorithm. Do not expect much performance, even with tuned hyper-parameters.
